@@ -1,5 +1,9 @@
 # LoRa prototyping
 
+## Constitution
+
+* ...
+
 ## Device
 
 E220-900T22S
