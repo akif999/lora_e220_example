@@ -5,7 +5,8 @@
 * With sample project
     * Raspberry Pi 3B <-> E220
 * With driver for Tinygo
-    * ?? <-> E220
+    * tx: Feather-m4-express <-> E220
+    * rx: Xiao <-> E220
 
 ## Device
 
@@ -22,4 +23,6 @@ E220-900T22S
 ## TODO
 
 * Check the device with the sample project (DONE)
-* make driver for Tinygo
+* make driver for Tinygo (DONE)
+    * imigrated to drivers
+    * easy sample added in this repository
